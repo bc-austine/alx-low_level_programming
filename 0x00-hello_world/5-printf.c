@@ -9,9 +9,11 @@
  *
  * 1. The first line of the file is a preprocessor command, indicated by #.
  * This line tells the preprocessor to include the contents of the stdio.h
- * standard input/output header file (this file is provided for you by the compiler).
+ * standard input/output header file 
+ * 	(this file is provided for you by the compiler).
  *
- * 2. The next line contains the main function. All C programs must have a main function.
+ * 2. The next line contains the main function.
+ * 	All C programs must have a main function.
  *
  * 3. The main function is where the execution of your program begins.
  *
