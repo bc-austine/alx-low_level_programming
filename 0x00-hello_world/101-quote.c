@@ -19,7 +19,7 @@
  *
  * 4. The next line is a function call to printf.
  * printf is a function that*
- prints a string to the standard output.
+ * prints a string to the standard output.
  *
  * 5. The next line is a return statement.
  * Every function in C must return a value.
