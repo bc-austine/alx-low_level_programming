@@ -6,15 +6,15 @@
  *
  * FUNCTIONALITY *
  *
- * 1. The first line of the program #include <stdio.h> is a 
+ * 1. The first line of the program #include <stdio.h> is a
  * preprocessor command,
- * which tells a C compiler to include stdio.h 
+ * which tells a C compiler to include stdio.h
  * file before going to actual compilation.
  *
- * 2. The next line int main(void) is the main function 
+ * 2. The next line int main(void) is the main function
  * where the program execution begins.
  *
- * 3. The next line puts("\"Programming is like 
+ * 3. The next line puts("\"Programming is like
  * building a multilingual puzzle");
  * causes the message Programming is like building a multilingual puzzle
  * to be displayed on the screen.
